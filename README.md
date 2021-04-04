@@ -8,9 +8,9 @@
 
 📫 All my social links are on https://clementhoang.net. Send me a DM!
 
-😄 Pronouns: He/Him
+😄 He/Him
 
-⚡ Fun fact: I brought a fresh durian into my office kitchen and turned it into durian yogurt with my intern. My floor thought there was a gas leak.
+⚡ I brought a fresh durian into my office kitchen and turned it into durian yogurt with my intern. My floor thought there was a gas leak.
 
 <!--
 **clemmy/clemmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
