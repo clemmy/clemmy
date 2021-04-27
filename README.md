@@ -6,7 +6,7 @@
 
 💬 Ask me about anything Javascript!
 
-📫 All my social links are on https://clementhoang.net. Send me a DM!
+📫 All my social links are on https://clemmy.ninja. Send me a DM!
 
 😄 He/Him
 
