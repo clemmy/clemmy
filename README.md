@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-🔭 I’m currently working on making Airtable meet the complex needs of large Enterprise companies.
+🔭 I’m currently building agentic products at Airtable.
 
-🌱 I’m currently learning how to build team culture and run a team effectively.
+🌱 I previously worked at Credit Karma and Meta (React core).
 
-💬 Ask me about anything Javascript!
+💬 I think about the commerce layer for autonomous AI.
 
-📫 All my social links are on https://clemmy.ninja. Send me a DM!
-
-😄 He/Him
-
-⚡ I brought a fresh durian into my office kitchen and turned it into durian yogurt with my intern. My floor thought there was a gas leak.
+⚡ I once brought a fresh durian into my office kitchen and made durian yogurt. My building almost evacuated thinking there was a gas leak.
